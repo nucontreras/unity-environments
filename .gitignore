@@ -80,6 +80,7 @@ LivingRoom/ProjectSettings/*
 LivingRoom/Temp/*
 LivingRoom/UserSettings/*
 LivingRoom/.vsconfig
+LivingRoom/Assets/Textures/*
 
 # LivingRoom/Assets/3DModels/
 *.meta
