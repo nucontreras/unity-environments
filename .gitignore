@@ -80,5 +80,11 @@ LivingRoom/ProjectSettings/*
 LivingRoom/Temp/*
 LivingRoom/UserSettings/*
 LivingRoom/.vsconfig
-LivingRoom/Assets/3DModels/*
 
+# LivingRoom/Assets/3DModels/
+*.meta
+*.png.meta
+*.jpg.meta
+*.exr.meta
+*.fbx.meta
+*.mat.meta
