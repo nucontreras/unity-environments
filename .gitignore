@@ -83,6 +83,9 @@ LivingRoom/.vsconfig
 LivingRoom/Assets/Textures/*
 
 # LivingRoom/Assets/3DModels/
+LivingRoom/Assets/3DModels/white-modern-living-room/*
+LivingRoom/Assets/3DModels/dining-room-kichen-baked/*
+LivingRoom/Assets/3DModels/pile-burned-trash-3d-scan/*
 *.meta
 *.png.meta
 *.jpg.meta
