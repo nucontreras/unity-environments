@@ -92,3 +92,6 @@ LivingRoom/Assets/3DModels/pile-burned-trash-3d-scan/*
 *.exr.meta
 *.fbx.meta
 *.mat.meta
+
+# Living Room Recordings
+LivingRoom/Assets/Recordings/LivingRoom_001.mp4
