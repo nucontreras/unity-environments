@@ -3,5 +3,5 @@ Environments and Terrains with dynamic interactions and objects. Made in Unity a
 
 ## Living Room
 <p float="left">
-  <img src="DroneAgent/Recordings/LivingRoom_gif.gif" />
+  <img src="LivingRoom/Recordings/LivingRoom_gif.gif" />
 </p>
